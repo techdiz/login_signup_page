@@ -46,6 +46,8 @@ Follow these steps to set up and run the application locally.
 2. Import the provided SQL database file (user_auth.sql) into your MySQL server to create the necessary tables.
 
 3. Update the database connection settings in process.php with your MySQL server details:
+
+   ```php
     $servername = "localhost";
     $username = "your_mysql_username";
     $password = "your_mysql_password";
