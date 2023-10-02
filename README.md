@@ -41,7 +41,7 @@ Follow these steps to set up and run the application locally.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git](https://github.com/techdiz/login_signup_page.git
+   git clone https://github.com/techdiz/login_signup_page.git
    
 2. Import the provided SQL database file (user_auth.sql) into your MySQL server to create the necessary tables.
 
